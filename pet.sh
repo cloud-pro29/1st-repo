@@ -12,3 +12,4 @@ petnames
 echo "creating petname lion"
 petnames
 echo "i like devops"
+echo " git is fun"
